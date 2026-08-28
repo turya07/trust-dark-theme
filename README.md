@@ -1,4 +1,4 @@
-# trust-dark-theme v1.0.0
+# trust-dark-theme v2.1.0
 
 ## SCREENSHOTS
 
@@ -16,5 +16,5 @@ git clone https://github.com/turya07/trust-dark-theme.git
 
 ```powershell
 echo "y" | vsce package
-code --install-extension trust-dark-theme-green-1.1.2.vsix
+code --install-extension trust-dark-theme-black-2.1.0.vsix
 ```
