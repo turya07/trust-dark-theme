@@ -3,33 +3,33 @@
   "colors": {
     "welcomePage.background": "#212121",
     "welcomePage.tileBorder": "#2f2f",
-    "welcomePage.tileHoverBackground": "#22f2ff",
+    "welcomePage.tileHoverBackground": "#2c3450",
     "activityBar.background": "#121216",
     "activityBar.foreground": "#75bcfa",
-    "activityBar.border":"#404d4f",
+    "activityBar.border": "#404d4f",
     "activityBarBadge.foreground": "#abb3ec",
     "activityBarBadge.background": "#171c24",
-    "editor.background": "#101010",
+    "editor.background": "#19181d",
     "editor.foreground": "#fff",
     "editor.selectionBackground": "#404d4f",
-    "editorGroup.dropBackground": "#00071f55",
-    "editorGroup.emptyBackground": "#31397455",
+    "editorGroup.dropBackground": "#353d5788",
+    "editorGroup.emptyBackground": "#19181d",
     "editorWidget.background": "#191930",
     "editorWidget.foreground": "#6675a8",
     "input.background": "#121212",
     "input.foreground": "#a1aca4",
-    "input.border":"#2f2f2f",
+    "input.border": "#2f2f2f",
     "menu.background": "#121212",
     "menu.border": "#404d4f",
     "menu.foreground": "#b2d3cc",
     "menu.selectionBackground": "#eeffee",
     "menu.selectionForeground": "#001100",
-    "sideBar.border":"#404d4f",
+    "sideBar.border": "#455d7a",
     "minimap.background": "#1a302996",
     "scrollbar.shadow": "#4dbb1a2a",
-    "scrollbarSlider.activeBackground": "#006aff",
+    "scrollbarSlider.activeBackground": "#555a61",
     "scrollbarSlider.background": "#b0d8fc55",
-    "scrollbarSlider.hoverBackground": "#00d0ff",
+    "scrollbarSlider.hoverBackground": "#718286ab",
     "sideBar.background": "#212121",
     "sideBarSectionHeader.background": "#15151a",
     "sideBarTitle.background": "#08110e",
@@ -46,7 +46,7 @@
     "terminal.foreground": "#efefefaa",
     "terminal.selectionBackground": "#121212",
     "terminal.selectionForeground": "#def3ed",
-    "titleBar.activeBackground": "#1e1f1f",
+    "titleBar.activeBackground": "#121216",
     "titleBar.activeForeground": "#f6f1ff",
     "actionBar.toggledBackground": "#3c6aaf44",
     "window.activeBorder": "#404d4f",
@@ -63,8 +63,8 @@
     {
       "scope": ["variable", "constant.other.placeholder"],
       "settings": {
-        "foreground": "#3d94e0",
-        "fontStyle": ""
+        "foreground": "#6eb9ff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -548,7 +548,6 @@
     },
     {
       "scope": [
-        "comment",
         "entity.other.attribute-name",
         "keyword",
         "markup.underline.link",
@@ -576,7 +575,7 @@
         "storage.type.primitive"
       ],
       "settings": {
-        "foreground": "#fada2a",
+        "foreground": "#fada2a"
       }
     },
     {
